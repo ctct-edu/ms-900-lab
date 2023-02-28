@@ -14,40 +14,105 @@
 
 この演習の主なタスクは次のとおりです。
 
-1. Server Core に AD DS を展開する
-2. AD DS インストールの準備をして、リモート サーバーを昇格させる
+1. Microsoft 365 ポータルの日本語化
+2. Microsoft 365 管理センターで組織プロファイルを設定する
 3. AD DS でオブジェクトを管理する
 
 ## <a name="estimated-time-45-minutes"></a>予想所要時間: 20 分
 
 
 
-## <a name="lab-setup"></a>ラボのセットアップ
+### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 1: Microsoft 365 ポータルの日本語化
 
-1. go deploy (https://lms.godeploy.it/) にアクセスします。
-2. 作成したアカウントでサインインし、ラボキーを引き換えます。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://portal.office.com/) にアクセスし、Lab0 で取得した資格情報でサインインします。
 
-1. **SEA-ADM1** を選択します。
+   | 項目           | 値                                                           |
+   | -------------- | ------------------------------------------------------------ |
+   | **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com`<br />@マーク以降のXXXXXXXXXは各自異なります。 |
+   | **パスワード** | Lab 0でコピーしたパスワード                                  |
 
-2. 次の資格情報を使用してサインインします。
-   - ユーザー名: **Administrator**
+1.  **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
+
+1.  **[Welcome to your new Office,Mod]** ページが表示された場合は、右側に表示される **[>]** ボタンを3回クリックします。(表示されない場合は、そのままMicrosoft 365 ポータルが表示されます)
+
+1. ポータル画面が表示されたら、右上の歯車マーク **[Settings]** をクリックします。
+
+   ![lab1-1](./media/lab1-1.png)
+
+1.  **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
+
+   <img src="./media/lab1-2.png" alt="lab1-2" style="zoom: 67%;" />
+
+1.  **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
+
+1.  **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
+
+   <img src="./media/lab1-3.png" alt="lab1-3" style="zoom:80%;" />
+
+1.  **[Language]** ページで **[Japanese]** を選択し、 **[Select]** をクリックします。
+
+1.  **[Display language and regional format will be updated to Japanese]** とメッセージが表示されたら、 **[Update]** をクリックします。
+
+   ![lab1-4](./media/lab1-4.png)
+
+1.  **[表示言語と地域設定が Japanese に更新されました。新しい言語を完全に適用するには、サインアウトする必要があります。]** とメッセージが表示されたら、 **[キャンセル]** をクリックします。
+
+   <img src="./media/lab1-5.png" alt="lab1-5" style="zoom:80%;" />
+
+1.  **[設定およびプライバシー]** ページで、 **[地域]** の **[タイムゾーン] - [タイムゾーンの変更]** をクリックします。
+
+   <img src="./media/lab1-6.png" alt="lab1-6" style="zoom:80%;" />
+
+1.  **[ (UTC ＋ 09:00)大阪、札幌、東京]** を選択して、 **[選択]** をクリックします。
+
+1. Microsoft 365 ポータル の右上にあるイニシャルのアイコンをクリックしてから、 **[sign out]** をクリックします。
+
+   ![lab1-7](./media/lab1-7.png)
+
+1.  **[どのアカウントをサインアウトしますか?]** というメッセージが表示されたら、サインインしていたアカウントを選択します。
+
+1. サインアウトが完了したら、一度ブラウザーを×で閉じます。
+
+1. 再度、InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、Lab0 で取得した資格情報でサインインします。
+
+1.  **[サインインの状態を保持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
+
+1.  **[Microsoft 365 管理センター]** のメニュー表記が日本語となっていることが確認できます。
+
+1.  **[Microsoft 365 管理センター]** が日本語に変更されていない場合は、一度サインアウトし、16の手順を繰り返します。
+
+   ※日本語化されたことが確認出来たら、タスク2に進んでください。
+
+
+
+### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 2: Microsoft 365 管理センターで組織プロファイルを設定する
+
+1. Microsoft 365 管理センターの左ペインから、 **[・・・すべて表示]** をクリックします。
+
+   <img src="./media/lab1-8.png" alt="lab1-8" style="zoom:80%;" />
+
+2.  **[設定] - [組織設定]** をクリックしてから、 **[組織のプロファイル]** タブを選択します。
+
+   <img src="./media/lab1-9.png" alt="lab1-9" style="zoom:67%;" />
+
+3.   **[組織のプロファイル]** タブ を下にスクロールし、 **[組織の情報]** をクリックします。
+
+4.  **[組織の情報]** ページで組織名が **[Contoso]** と表示されていることを確認したら、以下の項目を設定します。**※特に指示がないものは規定値のままで構いません。**
+   入力したら、 **[保存]** をクリックします。
+
+   | 項目     | 値                                                           |
+   | -------- | ------------------------------------------------------------ |
+   | **名前** | Adatum Corporation<br />※Adatum と Corporation の間に半角スペースを入れてください。 |
+
    
-   - パスワード: **Pa55w.rd**
-   
-   - ドメイン: **CONTOSO**
-   
-     
 
-### <a name="task-1-deploy-ad-ds-on-a-new-windows-server-core-server"></a>タスク 1: Server Core に AD DS を展開する
 
-1. **SEA-ADM1** に以下の資格情報でサインインします。
 
-   | 資格情報       | 値                         |
-   | -------------- | -------------------------- |
-   | **ユーザー名** | **Contoso\\Administrator** |
-   | **パスワード** | **Pa55w.rd**               |
 
-1. **SEA-ADM1** で **[スタート]** メニューから、**[Windows PowerShell (管理者)]** をクリックします。
+
+
+
+
 
 1. 以下のWindows PowerShellコマンドレットを実行し、**SEA-SVR1**にAD DS (Active Directory ドメインサービス)の役割をインストールします。
 
