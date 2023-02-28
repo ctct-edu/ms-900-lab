@@ -1,31 +1,14 @@
-# <a name="lab-answer-key-implementing-identity-services-and-group-policy"></a>Lab01a: Server Core への新しいドメイン コントローラーの展開
+# <a name="lab-answer-key-implementing-Lab setup"></a>Lab0: ラボのセットアップ
 
-## <a name="scenario"></a>シナリオ
 
-あなたは Contoso Ltd. に管理者として勤務しています。この会社は、いくつかの新しい場所でビジネスを拡大しています。 現在、Active Directory Domain Services (AD DS) 管理チームは、非対話型のリモート ドメイン コントローラーの展開のために Windows Server で使用できる方法を評価しています。 また、チームは特定の AD DS 管理タスクを自動化する方法を探しています。 さらに、チームは、グループ ポリシー オブジェクト (GPO) に基づいて構成管理を確立したいと考えています。
-
-## <a name="objectives"></a>目標とタスク
-
-このラボを完了すると、次のことができるようになります。
-
-- Server Core に新しいドメイン コントローラーを展開する。
-- グループ ポリシーを構成する。
-
-この演習の主なタスクは次のとおりです。
-
-1. Server Core に AD DS を展開する
-2. AD DS インストールの準備をして、リモート サーバーを昇格させる
-3. AD DS でオブジェクトを管理する
-
-## <a name="estimated-time-45-minutes"></a>予想所要時間: 20 分
-
-## <a name="architecture"></a>アーキテクチャの図
-
-![AZ-800_Lab01_architecture1](./media/AZ-800_Lab01_architecture1.png)
 
 ## <a name="lab-setup"></a>ラボのセットアップ
 
-使用する仮想マシン: **SEA-DC1**、**SEA-SVR1**、**SEA-ADM1**  
+1. go deploy (https://lms.godeploy.it/) にアクセスして、  **[Register]** をクリックします。
+
+   <img src="./media/lab0-1.png" alt="lab0-1" style="zoom:80%;" />
+
+2. 
 
 1. **SEA-ADM1** を選択します。
 
