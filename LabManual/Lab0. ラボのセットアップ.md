@@ -8,7 +8,7 @@
 
    <img src="./media/lab0-1.png" alt="lab0-1" style="zoom:80%;" />
 
-2. 以下の項目を入力し、アカウント作成をします。項目を入力したら、 **[I agree to the go deploy terms of use and privacy policy*.]  (利用規約に同意する)** にチェックを入れ、  **[Register]** をクリックします。
+2. 以下の項目を入力し、アカウント作成をします。項目を入力したら、 **[I agree to the go deploy terms of use and privacy policy.]  (利用規約に同意する)** にチェックを入れ、  **[Register]** をクリックします。
 
    | 項目                 | 値                                                           |
    | -------------------- | ------------------------------------------------------------ |
