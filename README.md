@@ -1,10 +1,10 @@
-# Windows Server ハイブリッド コア インフラストラクチャの管(AZ-800T00)
+# Microsoft 365 基礎(MS-900)
 
 # ラボマニュアル
 
 ## はじめに
 
-本マニュアルはCTCテクノロジー主催 「[Windows Server ハイブリッド コア インフラストラクチャの管理](https://www.school.ctc-g.co.jp/course/P780.html)」 のラボマニュアルになります。
+本マニュアルはCTCテクノロジー主催 「[Microsoft 365 基礎](https://www.school.ctc-g.co.jp/course/P800.html)」 のラボマニュアルになります。
 
 ## マニュアルの見かた
 
