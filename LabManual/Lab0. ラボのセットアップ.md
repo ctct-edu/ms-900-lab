@@ -6,6 +6,9 @@
 
 1. go deploy (https://lms.godeploy.it/) にアクセスして、  **[Register]** をクリックします。
 
+   **※注意※**
+   **職場で、office  365 または Dynamics 365 を既に使用している場合は、InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) からアクセスしてください。**
+
    <img src="./media/lab0-1.png" alt="lab0-1" style="zoom:80%;" />
 
 2. 以下の項目を入力し、アカウント作成をします。項目を入力したら、 **[I agree to the go deploy terms of use and privacy policy.]  (利用規約に同意する)** にチェックを入れ、  **[Register]** をクリックします。
