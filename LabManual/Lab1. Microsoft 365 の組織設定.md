@@ -132,7 +132,7 @@
    | 項目           | 値                |
    | -------------- | ----------------- |
    | **ユーザー名** | MOD Administrator |
-   | **ユーザー名** | Alex Willber      |
+   | **ユーザー名** | Alex Wilber       |
    | **ユーザー名** | Joni Sherman      |
    | **ユーザー名** | Lynne Robbin      |
 
