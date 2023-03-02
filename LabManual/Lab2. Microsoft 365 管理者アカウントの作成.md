@@ -1,90 +1,84 @@
-# <a name="lab-answer-key-Microsoft 365-organization-settings"></a>Lab01: Microsoft 365 の組織設定
+# <a name="lab-answer-key-Create-a Microsoft-365-admin-account"></a>Lab02: Microsoft 365 管理者アカウントの作成
 
 ## <a name="scenario"></a>シナリオ
 
-あなたは、Microsoft 365 テナントを契約した直後に行う組織の設定を確認することにしました。
+Holly Dicksonは、Adatum社のエンタープライズ管理者です。 Hollyは、Microsoft 365 MOD Administratorアカウントを使用して、Microsoft 365にサインインしていました。 但し、セキュリティの観点から、MOD Administratorアカウントを今後も使用し続けることは望ましくないため、Holly のMicrosoft 365ユーザーアカウントを作成し、グローバル管理者の役割を割り当てることにしました。
 
 ## <a name="objectives"></a>目標とタスク
 
 このラボを完了すると、次のことができるようになります。
 
-- Microsoft 365 テナントの設定を確認する。
+- Microsoft 365 ユーザーを作成する。
 
-- Microsoft 365 管理センターの組織プロファイルの設定を変更する。
+- Microsoft 365 ユーザーにライセンスを割り当てる。
+
+- 作成したユーザーにMicrosoft 365 の管理者権限を割り当てる。
 
   
 
 この演習の主なタスクは次のとおりです。
 
-1. Microsoft 365 ポータルの日本語化
+1. Microsoft 365 ユーザーの作成とライセンスの割り当て
 2. Microsoft 365 管理センターで組織プロファイルを設定する
 
 ## <a name="estimated-time-45-minutes"></a>予想所要時間: 20 分
 
 
 
-### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 1: Microsoft 365 ポータルの日本語化
+### <a name="task-1-Create-Microsoft-365-users-and-assign licenses"></a>タスク 1: Microsoft 365 ユーザーの作成とライセンスの割り当て
 
-1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://portal.office.com/) にアクセスし、Lab0 で取得した資格情報でサインインします。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、Lab0 で取得した資格情報でサインインします。
 
    | 項目           | 値                                                           |
    | -------------- | ------------------------------------------------------------ |
-   | **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com`<br />@マーク以降のXXXXXXXXXは各自異なります。 |
+   | **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com` <br />@マーク以降のXXXXXXXXXは各自異なります。 |
    | **パスワード** | Lab 0でコピーしたパスワード                                  |
 
-1.  **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
+2. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
 
-1.  **[Welcome to your new Office,Mod]** ページが表示された場合は、右側に表示される **[>]** ボタンを3回クリックします。(表示されない場合は、そのままMicrosoft 365 ポータルが表示されます)
+3.  **[Microsoft 365管理センター]** の左ペインで、 **[ユーザー] - [アクティブなユーザー]** の順にクリックします。
 
-1. ポータル画面が表示されたら、右上の歯車マーク **[Settings]** をクリックします。
+   <img src="./media/lab2-1.png" alt="lab2-1" style="zoom:80%;" />
 
-   ![lab1-1](./media/lab1-1.png)
+14.  **[アクティブなユーザー]** ページで、 **[ユーザーの追加]** をクリックします。
 
-1. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
+    <img src="./media/lab2-2.png" alt="lab2-2" style="zoom: 67%;" />
 
-   <img src="./media/lab1-2.png" alt="lab1-2" style="zoom: 67%;" />
+15.  **[基本設定]** ページが表示されたことを確認し、次の情報を入力し、 **[次へ]** をクリックします。
 
-6. **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
+    | 項目                                                         | 値                                                           |
+    | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | **姓**                                                       | Holly                                                        |
+    | **名**                                                       | Dickson                                                      |
+    | **表示名**                                                   | Holly Dickson <br />(このフィールドをクリックするとHolly Dickson と表示されるのでそのまま使用します) |
+    | **ユーザー名**                                               | Holly                                                        |
+    | **パスワードの設定**                                         | パスワードを自動作成する チェックボックスをオフ              |
+    | **パスワード**                                               | Pa55w.rd1234                                                 |
+    | **初回サインイン時にこのユーザーにパスワードの変更を要求する** | チェックボックスをオフ                                       |
 
-7. **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
+16.  **[製品ライセンスの割り当て]** ページで、次の情報を入力して、 **[次へ]** をクリックします。
 
-<img src="./media/lab1-3.png" alt="lab1-3" style="zoom:80%;" />
+    | 項目           | 値                      |
+    | -------------- | ----------------------- |
+    | **場所の選択** | 米国                    |
+    | **ライセンス** | Microsoft 365 E5 をオン |
 
-8. **[Language]** ページで **[Japanese]** を選択し、 **[Select]** をクリックします。
+    ![lab2-3](./media/lab2-3.png)
 
-9. **[Display language and regional format will be updated to Japanese]** とメッセージが表示されたら、 **[Update]** をクリックします。
+17.  **[オプションの設定]** ページで、 **[役割(ユーザー：管理アクセス許可なし)]** の右横の **[∨]** をクリックして 展開し、 **[管理センターに対するアクセス許可]** のラジオボタンを選択します。
 
-![lab1-4](./media/lab1-4.png)
+18.  **[グローバル管理者]** チェックボックスをオンにし、 **[次へ]** ボタンをクリックします。
 
-10. **[表示言語と地域設定が Japanese に更新されました。新しい言語を完全に適用するには、サインアウトする必要があります。]** とメッセージが表示されたら、 **[キャンセル]** をクリックします。
+19.   **「組織に全体管理者が5人います。」** というメッセージが表示されます。メッセージ内に表示される、 
+       **「全体管理者を確認してください。」** のリンクをクリックします。
 
-<img src="./media/lab1-5.png" alt="lab1-5" style="zoom:80%;" />
+    ![lab2-4](./media/lab2-4.png)
 
-11. **[設定およびプライバシー]** ページで、 **[地域]** の **[タイムゾーン] - [タイムゾーンの変更]** をクリックします。
+20.  **[グローバル管理者]** ページが表示されます。 **[割り当て済み]** タブ内に、グローバル管理者の権限が割り当てられているユーザーが5アカウント存在することが確認できます。
 
-<img src="./media/lab1-6.png" alt="lab1-6" style="zoom:80%;" />
+    <img src="./media/lab2-5.png" alt="lab2-5" style="zoom:67%;" />
 
-12. **[ (UTC ＋ 09:00)大阪、札幌、東京]** を選択して、 **[選択]** をクリックします。
-
-13. Microsoft 365 ポータル の右上にあるイニシャルのアイコンをクリックしてから、 **[sign out]** をクリックします。
-
-![lab1-7](./media/lab1-7.png)
-
-14. **[どのアカウントをサインアウトしますか?]** というメッセージが表示されたら、サインインしていたアカウントを選択します。
-
-15. サインアウトが完了したら、一度ブラウザーを×で閉じます。
-
-16. 再度、InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、Lab0 で取得した資格情報でサインインします。
-
-17. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
-
-18. **[Microsoft 365 管理センター]** のメニュー表記が日本語となっていることが確認できます。
-
-19. **[Microsoft 365 管理センター]** が日本語に変更されていない場合は、一度サインアウトし、16の手順を繰り返します。
-
-　　**※日本語化されたことが確認出来たら、タスク2に進んでください。**
-
-
+21. 
 
 ### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 2: Microsoft 365 管理センターで組織プロファイルを設定する
 
