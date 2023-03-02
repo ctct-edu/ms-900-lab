@@ -40,15 +40,15 @@
 
    ![lab1-1](./media/lab1-1.png)
 
-1.  **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
+1. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
 
    <img src="./media/lab1-2.png" alt="lab1-2" style="zoom: 67%;" />
 
-1.  **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
+6. **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
 
-1.  **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
+7. **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
 
-   <img src="./media/lab1-3.png" alt="lab1-3" style="zoom:80%;" />
+<img src="./media/lab1-3.png" alt="lab1-3" style="zoom:80%;" />
 
 1.  **[Language]** ページで **[Japanese]** を選択し、 **[Select]** をクリックします。
 
