@@ -1,8 +1,12 @@
-# <a name="lab-answer-key-Create-a Microsoft-365-admin-account"></a>Lab02: Microsoft 365 管理者アカウントの作成
+# <a name="lab-answer-key-Explore-key features-of-Exchange-Online"></a>Lab03: Exchange Online の主な機能の確認
 
 ## <a name="scenario"></a>シナリオ
 
-Holly Dicksonは、Adatum社のエンタープライズ管理者です。 Hollyは、Microsoft 365 MOD Administratorアカウントを使用して、Microsoft 365にサインインしていました。 但し、セキュリティの観点から、MOD Administratorアカウントを今後も使用し続けることは望ましくないため、Holly のMicrosoft 365ユーザーアカウントを作成し、グローバル管理者の役割を割り当てることになりました。その後、グローバル管理者の権限を割り当てたHolly のアカウントでサインインし、Microsoft 365 ユーザーとグループの作成、ユーザーにライセンスを割り当てができるか検証することにします。
+Holly Dickson は、Adatum のエンタープライズ管理者です。Holly DicksonのMicrosoft 365 アカウントにグローバル管理者の役割が割り当てられたので、Exchange Online、SharePoint Online、および Teams 内の主要な管理機能を確認するよう上司から指示が出ました。
+
+尚、今回はMicrosoft Exchange に関して、Adatum の CTO は、メール フローと受信者管理に関連する Exchange Online の基本的な管理機能の一部を Holly にレビューするよう依頼しました。
+
+> **補足 : グローバル管理者の役割には Exchange 管理者の役割が含まれているため、Holly は Exchange 関連のすべてのタスクを実行できます。**
 
 ## <a name="objectives"></a>目標とタスク
 
@@ -18,30 +22,32 @@ Holly Dicksonは、Adatum社のエンタープライズ管理者です。 Holly�
 
 この演習の主なタスクは次のとおりです。
 
-1. Microsoft 365 ユーザーの作成とライセンスの割り当て
-2. Microsoft 365グローバル管理者アカウントの確認
-3. Microsoft 365ユーザーのパスワードリセットとグループを設定する
+1. 受信者の管理
+2. グループの管理
+3. 配布リストのアップグレード
+4. リソースの管理
+5. 連絡先の管理
 
-## <a name="estimated-time-45-minutes"></a>予想所要時間: 20 分
+## <a name="estimated-time-30-minutes"></a>予想所要時間: 30 分
 
 
 
-### <a name="task-1-Create-Microsoft-365-users-and-assign licenses"></a>タスク 1: Microsoft 365 ユーザーの作成とライセンスの割り当て
+### <a name="task-1-Recipient-management"></a>タスク 1: 受信者の管理
 
-1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、Lab0 で取得した資格情報でサインインします。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター ([https://admin.microsoft.com](https://admin.microsoft.com/)) にアクセスし、以下の資格情報でサインインします。
 
 | 項目           | 値                                                           |
 | -------------- | ------------------------------------------------------------ |
-| **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com` <br />@マーク以降のXXXXXXXXXは各自異なります。 |
-| **パスワード** | Lab 0でコピーしたパスワード                                  |
+| **ユーザーID** | `Holly@XXXXXXXXXXX.onmicrosoft.com` <br />@マーク以降のXXXXXXXXXは各自異なります。 |
+| **パスワード** | Pa55w.rd1234                                                 |
 
-1. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
+2. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
 
-2. **[Microsoft 365管理センター]** の左ペインで、 **[ユーザー] - [アクティブなユーザー]** の順にクリックします。
+1. **[Microsoft 365管理センター]** の左ペインで、 **[ユーザー] - [アクティブなユーザー]** の順にクリックします。
 
    <img src="./media/lab2-1.png" alt="lab2-1" style="zoom:80%;" />
 
-3. **[アクティブなユーザー]** ページで、 **[ユーザーの追加]** をクリックします。
+2. **[アクティブなユーザー]** ページで、 **[ユーザーの追加]** をクリックします。
 
 <img src="./media/lab2-2.png" alt="lab2-2" style="zoom: 67%;" />
 
