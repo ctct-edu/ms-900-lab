@@ -191,7 +191,7 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 | **件名** | 任意タイトル                                                 |
 | **本文** | 任意の文章                                                   |
 
-6. 現在使用しているものとは別のブラウザー(Microsoft EdgeやChrome)のInprivate ウィンドウやシークレットウインドウを起動し、Microsoft office ポータル (https://portal.office.com)に以下の資格情報でサインインします。
+6. 現在使用しているものとは別のブラウザー(Microsoft EdgeやChrome)のInprivate ウィンドウやシークレットウインドウを起動し、Microsoft 365 ポータル (https://portal.office.com)に以下の資格情報でサインインします。
 
 | 項目       | 値                                                           |
 | ---------- | ------------------------------------------------------------ |
@@ -204,8 +204,14 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 
 　![lab3-20](./media/lab3-20.png)
 
-10. 
+10. 手順 5でHolly が送信したSales Department メーリングリスト宛のメールが届いていることを確認します。
 
+　![lab3-21](./media/lab3-21.png)
 
+> **補足 : LynneRは、配布グループのSales Departmentメンバーとして追加されているため、Holly からのメールが確認できます。**
 
-### **結果 : この演習を完了すると、Microsoft 365 ユーザーの作成、役割の割り当て、グループの設定ができます。**
+11. メールが届いていることを確認したら、Outlook の右上にあるユーザーのアイコンをクリックしてサインアウトしてください。
+
+    
+
+### **結果 : この演習を完了すると、Exchange Online のメーリングリストを作成し、送受信の検証ができます。**
