@@ -97,7 +97,10 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 
    <img src="./media/lab3-6.png" alt="lab3-6" style="zoom:50%;" />
 
-1. 
+4.  **[基本の設定]** ページで、 **[名前]** フィールドに  **「Sales Department」** と入力し、 **[説明]** フィールドに移動します ([ 次へ] ボタンが有効になります)。 **[説明]** フィールドは空白のままにし、 **[次へ]** をクリックします。
+
+   <img src="./media/lab3-7.png" alt="lab3-7" style="zoom:50%;" />
+
 1. 
 1. 
 1. 
