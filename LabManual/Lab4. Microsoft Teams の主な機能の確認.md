@@ -19,9 +19,9 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 この演習の主なタスクは次のとおりです。
 
 1. チームの作成とメンバーの追加
-2. Teams に Planner を追加する
+2. Teams に Planner と To Do を追加する
 
-オプション. メーリングリストの検証
+
 
 ## <a name="estimated-time-30-minutes"></a>予想所要時間: 20 分
 
