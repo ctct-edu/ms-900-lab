@@ -147,7 +147,10 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 
 　<img src="./media/lab3-14.png" alt="lab3-14" style="zoom:50%;" />
 
-1. 
+17.  **[メンバー]** ページが表示されたら、 **[ + メンバーを追加]** をクリックします。
+
+　![lab3-15](./media/lab3-15.png)
+
 1. 
 1. 
 1. 
