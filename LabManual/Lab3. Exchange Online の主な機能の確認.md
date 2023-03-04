@@ -151,8 +151,17 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 
 　![lab3-15](./media/lab3-15.png)
 
-1. 
-1. 
+18.  **[メンバーの追加]** ページで、 **[Diego Siciliani]** と **[Lynne Robbins]** の左にあるチェックボックスをオンにし、 **[追加] (2)** ボタンをクリックします。
+19.  **[メンバー]** ページに戻り、LynneとDiego がリストに追加されたことを確認したら、左上にある **[ ← ]** をクリックして戻ります。
+20.  **[メンバー]** ページに戻ると、 **[所有者]** に HollyとAlex、 **[メンバー]** に LynneとDiego が追加されたことが確認できます。
+
+　![lab3-16](./media/lab3-16.png)
+
+21.  **[Sales Department]** ページの右上にある [ × ] をクリックして閉じます。
+22. ブラウザとすべてのタブを開いたままの状態で、次のタスクに進んでください。
+
+　
+
 1. 
 1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、以下の資格情報でサインインします。
 
