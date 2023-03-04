@@ -134,7 +134,7 @@ Holly Dickson は、Adatum のエンタープライズ管理者です。Holly Di
 
 17.  [メンバー] タブの [所有者] セクションで、 [すべての所有者の表示と管理] をクリックします。
 
-    <img src="./media/lab3-11.png" alt="lab3-11" style="zoom:33%;" />
+    <img src="./media/lab3-11.png" alt="lab3-11" style="zoom:50%;" />
 
 18. これにより、[所有者]ウィンドウが開きます。Holly は Alex Wilber にグループを共同所有してもらいたいので、[+所有者を追加]を選択します。
 
