@@ -25,7 +25,7 @@
 
 ### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 1: Microsoft 365 ポータルの日本語化
 
-1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://portal.office.com/) にアクセスし、Lab0 で取得した資格情報でサインインします。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 ポータル (https://portal.office.com/) にアクセスし、Lab0 で取得した資格情報でサインインします。
 
    | 項目           | 値                                                           |
    | -------------- | ------------------------------------------------------------ |
