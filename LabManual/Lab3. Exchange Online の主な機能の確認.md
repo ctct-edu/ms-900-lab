@@ -2,9 +2,7 @@
 
 ## <a name="scenario"></a>シナリオ
 
-Holly Dickson は、Adatum のエンタープライズ管理者です。Holly DicksonのMicrosoft 365 アカウントにグローバル管理者の役割が割り当てられたので、Exchange Online、SharePoint Online、および Teams 内の主要な管理機能を確認するよう上司から指示が出ました。
-
-尚、今回はMicrosoft Exchange に関して、Adatum の CTO は、メール フローと受信者管理に関連する Exchange Online の基本的な管理機能の一部を Holly にレビューするよう依頼しました。
+Holly Dickson は、Adatum のエンタープライズ管理者です。Holly DicksonのMicrosoft 365 アカウントにグローバル管理者の役割が割り当てられたので、Exchange Onlineの主要な管理機能を確認するよう上司から指示が出ました。
 
 > **補足 : グローバル管理者の役割には Exchange 管理者の役割が含まれているため、Holly は Exchange 関連のすべてのタスクを実行できます。**
 
