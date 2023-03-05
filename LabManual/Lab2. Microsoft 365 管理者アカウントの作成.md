@@ -101,7 +101,7 @@ Holly Dicksonは、Adatum社のIT部門のエンタープライズ管理者で�
 
 18. **[アクティブなユーザー]** の一覧で、Holly Dickson をクリックします。
 
-19. [Holly Dickson] の画面の [アカウント] タブに表示されている [`Holly@XXXXXXX.onmicrosoft.com`] をコピーし、メモ帳などに記録します。 
+19.  **[Holly Dickson]** の画面の **[アカウント]** タブに表示されている [`Holly@XXXXXXX.onmicrosoft.com`] をコピーし、メモ帳などに記録します。 
 
 20. Microsoft 365 管理センターからサインアウトします。
 
