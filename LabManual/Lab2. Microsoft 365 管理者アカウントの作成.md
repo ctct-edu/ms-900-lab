@@ -43,8 +43,6 @@ Holly Dicksonは、Adatum社のIT部門のエンタープライズ管理者で�
 
 4. **[アクティブなユーザー]** ページで、 **[Nestor Wilke]** のチェックボックスをオンにし、 **[ユーザーの削除]** をクリックします。
 
-   ![image-20230306204830731](C:\Users\CTCT\AppData\Roaming\Typora\typora-user-images\image-20230306204830731.png)
-
 5. **[Nestor Wilke の削除]** ページで、 **[ユーザーの削除]** をクリックします。
 
 6.  **[閉じる] をクリックします。**
