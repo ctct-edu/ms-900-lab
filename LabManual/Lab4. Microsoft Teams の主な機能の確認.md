@@ -52,9 +52,9 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 9. **[Isaiah Langer]** のアカウントでも、4 ～ 8 の手順を繰り返し、パスワードをリセットします。
 
-10. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理ポータル (https://portal.office.com/) にアクセスし、Holly@XXXXXXXXXXX.onmicrosoft.comの資格情報でサインインします。
+10. 左上の **[アプリ起動ツール]** ボタンをクリックします。
 
-11. 左のタスクバーから **[Teams]** を選択します。
+11. アプリの一覧から **[Teams]** を選択します。
 
     <img src="./media/lab4-6.png" alt="lab4-6" style="zoom:33%;" />
 
