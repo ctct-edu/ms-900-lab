@@ -1,6 +1,6 @@
 
 
-# **ラボ 01: Microsoft Teams を管理する**
+# **オプションラボ 1: Microsoft Teams を管理する**
 
 
 
