@@ -54,7 +54,7 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 10. アプリの一覧から **[Teams]** を選択します。
 
-    <img src="./media/lab4-6.png" alt="lab4-6" style="zoom:33%;" />
+    <img src="./media/lab4-17.png" alt="lab4-17" style="zoom:33%;" />
 
 11. **[チームをまとめましょう]** ページが表示されたら、右上の **[ × ]** をクリックします。<img src="./media/lab4-7.png" alt="lab4-7" style="zoom:33%;" />
 
