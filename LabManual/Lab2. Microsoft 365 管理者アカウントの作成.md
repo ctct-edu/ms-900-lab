@@ -28,12 +28,12 @@ Holly Dicksonは、Adatum社のIT部門のエンタープライズ管理者で�
 
 ### <a name="task-1-Create-Microsoft-365-users-and-assign licenses"></a>タスク 1: Microsoft 365 ユーザーの作成とライセンスの割り当て
 
-1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、Lab0 で取得した資格情報でサインインします。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com) にアクセスし、事前に取得した資格情報でサインインします。
 
 | 項目           | 値                                                           |
 | -------------- | ------------------------------------------------------------ |
 | **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com` <br />@マーク以降のXXXXXXXXXは各自異なります。 |
-| **パスワード** | Lab 0でコピーしたパスワード                                  |
+| **パスワード** | 事前に取得したパスワード                                     |
 
 2. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
 
