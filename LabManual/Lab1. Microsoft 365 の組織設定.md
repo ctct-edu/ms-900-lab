@@ -88,25 +88,17 @@
 
 ### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 2: Microsoft 365 管理センターで組織プロファイルを設定する
 
-1. タスク1が終了した状態で、画面左にあるアイコンをクリックします。
-
-  <img src="./media/lab1-8m.png" alt="lab1-8m.png" style="zoom:80%;" />
-  
-2. 管理のアイコンをクリックします。
-
- <img src="./media/lab1-9m.png" alt="lab1-9m.png" style="zoom:80%;" />
- 
-3.  Microsoft 365 管理センターの左ペインから、 **[・・・すべて表示]** をクリックします。
+1. Microsoft 365 管理センターの左ペインから、 **[・・・すべて表示]** をクリックします。
 
    <img src="./media/lab1-8.png" alt="lab1-8" style="zoom:80%;" />
 
-4. **[設定] - [組織設定]** をクリックしてから、 **[組織のプロファイル(Organization profile)]** タブを選択します。
+1. **[設定] - [組織設定]** をクリックしてから、 **[組織のプロファイル(Organization profile)]** タブを選択します。
 
-   <img src="./media/lab1-9.png" alt="lab1-9" style="zoom:67%;" />
+<img src="./media/lab1-9.png" alt="lab1-9" style="zoom:67%;" />
 
-5. **[組織のプロファイル(Organization profile)]** タブ を下にスクロールし、 **[組織の情報(Organization Infomation)]** をクリックします。
+3. **[組織のプロファイル(Organization profile)]** タブ を下にスクロールし、 **[組織の情報(Organization Infomation)]** をクリックします。
 
-6. **[組織の情報(Organization Infomation)]** ページで組織名が **[Contoso]** と表示されていることを確認したら、以下の項目を設定します。<br>
+4. **[組織の情報(Organization Infomation)]** ページで組織名が **[Contoso]** と表示されていることを確認したら、以下の項目を設定します。<br>
    **※特に指示がないものは既定値のままで構いません。**
    入力したら、 **[保存]** をクリックします。
 
@@ -125,11 +117,11 @@
 
    <img src="./media/lab1-10.png" alt="lab1-10" style="zoom:80%;" />
 
-8. **[組織の情報(Organization information)]** ページ上部に **「保存されました」** と表示されたことを確認し、 **[組織の情報(Organization information)]** ページを × で閉じます。
+5. **[組織の情報(Organization information)]** ページ上部に **「保存されました」** と表示されたことを確認し、 **[組織の情報(Organization information)]** ページを × で閉じます。
 
    ![lab1-11](./media/lab1-11.png)
 
-10.  **[組織のプロファイル(Organization profile)]** タブが表示されていることを確認し、 **[カスタムテーマ(Custom themes)]** をクリックします。
+6. **[組織のプロファイル(Organization profile)]** タブが表示されていることを確認し、 **[カスタムテーマ(Custom themes)]** をクリックします。
 
    <img src="./media/lab1-15.png" alt="lab1-15" style="zoom: 67%;" />
 
