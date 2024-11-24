@@ -110,7 +110,7 @@
    | **市区町村(City)**                                | 既定値                                                       |
    | **番地(Street address)**                          | 1                                                            |
    | **建物名(Apartment or suite)**                    | なし                                                         |
-   | **国または地域(Country or Region)**                    | 規定値                                                         |
+   | **国または地域(Country or Region)**               | 既定値                                                       |
    | **電話(Phone)**                                   | 425-555-1234                                                 |
    | **技術的な事項に関する連絡先(Technical contact)** | 既定値                                                       |
    | **優先する言語(Preferred language)**              | English                                                      |
