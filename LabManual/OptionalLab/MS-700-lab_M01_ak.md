@@ -38,19 +38,19 @@ Teams のセルフサービス機能をテストするために、このタス�
 
    チーム名(Team name)：  **Teams Rollout**
 
-   チームの種類(Team type)：  **パブリック(Public)**
+   チームの種類(Team type)：  **パブリック**
 
-   最初のチャネルに名前を付けてください(Name the first channel)：  **Test Channel**
+   最初のチャネルに名前を付けてください：  **Test Channel**
 
-5. [Teams Rolloutにメンバーを追加(Add membtes to Teams Rollout)] ウィンドウで、次の名前を入力します。
+5. [Teams Rolloutにメンバーを追加] ウィンドウで、次の名前を入力します。
 
    - **Joni Sherman**
    - **Lynne Robbins**
    - **Diego Siciliani**
 
-6. [Joni Sherman] の横にあるドロップダウン メニューを選択し、 **[メンバー(Member)] から[所有者(Owner)]** に切り替えます。
+6. [Joni Sherman] の横にあるドロップダウン メニューを選択し、 **[メンバー] から[所有者]** に切り替えます。
 
-7. **[追加(Add)]** を選択します。
+7. **[追加]** を選択します。
 
 Teams デスクトップ クライアントから新しいチームを正常に作成し、プロジェクト チーム メンバーを追加し、Joni Sherman をチーム所有者にしました。
 
