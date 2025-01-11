@@ -89,17 +89,15 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 　<img src="./media/lab4-8.png" alt="lab4-8" style="zoom:33%;" />
 
-2.  **[Microsoft によるビルド]** の一覧から **[Planner]** のアイコンをクリックします。
+2.  **[Microsoft によるビルド]** の一覧から **[Planner]** のアイコンの右にある **[開く]** をクリックします。
 
-　<img src="./media/lab4-9.png" alt="lab4-9" style="zoom:33%;" />
+　<img src="./media/lab4-9-2.png" alt="lab4-9-2" style="zoom:33%;" />
 
-3.  **[Planner]** ページの **[開く]** のプルダウンを展開して、 **[チームに追加]** をクリックします。
+3. **[始めましょう]** ページで **[一般 - Marketing]** を選択します。すると右下に **[移動]** ボタンが表示されるのでクリックします。
 
-　<img src="./media/lab4-10.png" alt="lab4-10" style="zoom:50%;" />
+   ![](./media/lab4-10-2.png)
 
-4.  **[チームにPlannerを追加する]** ページで、チームまたはチャネルの名前検索ボックスをクリックして、 **[一般 - Marketing]** を選択します。![](C:\Users\CTCT\Documents\GitHub\ms-900-lab\LabManual\media\lab4-11_0.png)
-5.  **[タブを設定]** をクリックします。
-6.  **[Planner]** の概要ページが表示されたら、 **[新しいプランの作成]** のラジオボタンが選択されている状態で、 **[タブ名]** に **[MarketingProgect]** と入力して **[保存]** をクリックします。
+4.  **[Planner]** の概要ページが表示されたら、 **[新しいプランの作成]** のラジオボタンが選択されている状態で、 **[タブ名]** に **[MarketingProgect]** と入力して **[保存]** をクリックします。
 
 　<img src="./media/lab4-11.png" alt="lab4-11" style="zoom:33%;" />
 
