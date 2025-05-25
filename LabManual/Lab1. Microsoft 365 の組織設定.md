@@ -25,7 +25,7 @@
 
 ### <a name="task-1-Japanese-localization-of-Microsoft 365-portal"></a>タスク 1: Microsoft 365 ポータルの日本語化
 
-1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 ポータル (https://portal.office.com/) にアクセスし、事前に取得した資格情報でサインインします。
+1. InPrivate ウィンドウ(Microsoft Edge) もしくは、シークレットウィンドウ (Google Chrome) で、Microsoft 365 管理センター (https://admin.microsoft.com/) にアクセスし、事前に取得した資格情報でサインインします。
 
    | 項目           | 値                                                           |
    | -------------- | ------------------------------------------------------------ |
@@ -34,11 +34,7 @@
 
 1.  **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
 
-1.  **[Welcome to your new Office,Mod]** ページが表示された場合は、右側に表示される **[>]** ボタンを3回クリックします。(表示されない場合は、そのままMicrosoft 365 ポータルが表示されます)
-
-1. ポータル画面が表示されたら、左下の歯車マーク **[Settings]** をクリックします。
-
-   ![lab1-1](./media/lab1-1.png)
+1. ポータル画面が表示されたら、画面右上左下の歯車マーク **[Settings]** をクリックします。
 
 1. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
 
