@@ -162,7 +162,7 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 　<img src="./media/lab4-16.png" alt="lab4-16" style="zoom:50%;" />
 
 15.  **[進捗報告]** チャネルが追加されたことが確認出来たら、 **[投稿を開始する]** をクリックして任意のメッセージを投稿します。
-16.  現在使用しているものとは別のブラウザー(Microsoft EdgeやChrome)のInprivate ウィンドウやシークレットウインドウを起動し、Microsoft 365 ポータル ([https://portal.office.com](https://portal.office.com/)) に以下の資格情報でサインインします。
+16.  現在使用しているものとは別のブラウザー(Microsoft EdgeやChrome)のInprivate ウィンドウやシークレットウインドウを起動し、ブラウザー版のTeams (https://teams.microsoftcom) に以下の資格情報でサインインします。
 
 | 項目           | 値                                                           |
 | -------------- | ------------------------------------------------------------ |
