@@ -85,7 +85,7 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 1. Teams の左ナビゲーションペインから **[アプリ]** をクリックします。
 
-　<img src="./media/lab4-8.png" alt="lab4-8" style="zoom:33%;" />
+　<img src="./media/lab4-7.png" alt="lab4-7" style="zoom:33%;" />
 
 2.  **[Microsoft によるビルド]** の一覧から **[Planner]** のアイコンの右にある **[開く]** をクリックします。
 
