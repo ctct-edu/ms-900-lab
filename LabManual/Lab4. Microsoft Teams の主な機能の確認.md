@@ -83,7 +83,7 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 　<img src="./media/lab4-8.png" alt="lab4-8" style="zoom:33%;" />
 
-2.  **[Microsoft によるビルド]** の一覧から **[Planner]** のアイコンの右にある **[開く]** をクリックします。
+2.  **[Microsoft によるビルド]** の一覧から **[Planner]** をクリックします。
 
 　<img src="./media/lab4-9-2.png" alt="lab4-9-2" style="zoom:33%;" />
 
