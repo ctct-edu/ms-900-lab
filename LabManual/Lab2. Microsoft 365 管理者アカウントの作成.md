@@ -97,31 +97,45 @@ Holly Dicksonは、Adatum社のIT部門のエンタープライズ管理者で�
 | **ユーザー名** | `Holly@XXXXXXXXXXX.onmicrosoft.com` <br />@マーク以降のXXXXXXXXXは各自異なります。 |
 | **パスワード** | Pa55w.rd1234                                                 |
 
-2. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
+2. 「**多要素認証を設定する必要があります**」というメッセージが出た場合、モバイル デバイスで MFA の要求を承認します。
 
-3.  > **※Microsoft 365管理センターが英語表記の場合は以下の3以降の手順で日本語表記に変更してください。日本語表記の場合は、このままタスク3に進んでください。**
+   「You need to set up multifactor authentication」 → **今すぐ設定**
 
-4. 右上の **[Settings]** アイコンをクリックします。 
+   「アカウントをセキュリティ保護しましょう」 → **次へ**
 
-5. **[Settings]** ページで、 **[Language and time zone]** の **[Change your language]** をクリックします。 
+   「Microsoft Authenticator のインストール」 → **次へ**
 
-6. **[My Account]** の **[Settings & Privacy]** ページが表示されたことを確認し、 **[Display Language]** をクリックします。
+   「アプリでアカウントをセットアップする」 → **次へ**
 
-7. **[Change display language]** ボタンをクリックします。
+   「QR コードをスキャンします」 → QRコードをスマートフォンの Microsoft Authenticator でスキャン → **次へ**
 
-8. **[Languages]** ページが表示されたことを確認し、 **[Search]** ボックスに **「Ja」** と入力します。 
+   画面に表示された2桁の番号をMicrosoft Authenticatorに入力し → **完了**
 
-9. 一覧から、 **[Japanese]** を選択します。
+3. **[サインインの状態を維持しますか]** ページが表示された場合は、 **[いいえ]** をクリックします 。
 
-10. **[Select]** ボタンをクリックします。
+4. > **※Microsoft 365管理センターが英語表記の場合は以下の3以降の手順で日本語表記に変更してください。日本語表記の場合は、このままタスク3に進んでください。**
 
-11. **[Update display language]** メッセージボックスで、 **[Update]** ボタンをクリックします。 
+5. 右上の **[Settings]** アイコンをクリックします。 
 
-12. **[日本語]** メッセージボックスで、 **[はい、今すぐサインアウト]** ボタンをクリックします。
+6. **[Settings]** ページで、 **[Language and time zone]** の **[Change your language]** をクリックします。 
 
-13. **[Pick an account]** ページで、 **[Holly Dickson]** を選択します。 
+7. **[My Account]** の **[Settings & Privacy]** ページが表示されたことを確認し、 **[Display Language]** をクリックします。
 
-14. Microsoft 365管理センターをサインアウトし、サインインし直します。
+8. **[Change display language]** ボタンをクリックします。
+
+9. **[Languages]** ページが表示されたことを確認し、 **[Search]** ボックスに **「Ja」** と入力します。 
+
+10. 一覧から、 **[Japanese]** を選択します。
+
+11. **[Select]** ボタンをクリックします。
+
+12. **[Update display language]** メッセージボックスで、 **[Update]** ボタンをクリックします。 
+
+13. **[日本語]** メッセージボックスで、 **[はい、今すぐサインアウト]** ボタンをクリックします。
+
+14. **[Pick an account]** ページで、 **[Holly Dickson]** を選択します。 
+
+15. Microsoft 365管理センターをサインアウトし、サインインし直します。
 
 
 

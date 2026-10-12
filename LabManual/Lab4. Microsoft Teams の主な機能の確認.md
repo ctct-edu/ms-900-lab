@@ -79,7 +79,7 @@ Adatum 社では、現在ハイブリッドワークが推奨されています�
 
 ### <a name="task-2-Add-Planner-to-Teams"></a>タスク 2: Teams に Planner を追加する
 
-1. Teams の左ナビゲーションペインから **[アプリ]** をクリックします。
+1. Teams の左ナビゲーションペインから **[ストア]** をクリックします。
 
 　<img src="./media/lab4-8.png" alt="lab4-8" style="zoom:33%;" />
 
