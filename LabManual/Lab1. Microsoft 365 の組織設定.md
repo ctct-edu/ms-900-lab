@@ -32,11 +32,25 @@
    | **ユーザーID** | `admin@XXXXXXXXXXX.onmicrosoft.com`<br />@マーク以降のXXXXXXXXXは各自異なります。 |
    | **パスワード** | 事前に取得したパスワード                                     |
 
-1.  **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
+2. **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
 
-1. ポータル画面が表示されたら、画面右上の歯車マーク **[Settings]** をクリックします。
+3. 「You need to set up multifactor authentication 」というメッセージが出た場合、モバイル デバイスで MFA の要求を承認します。
 
-1. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
+   「You need to set up multifactor authentication」 → **Set up now**
+
+   「アカウントをセキュリティ保護しましょう」 → **次へ**
+
+   「Microsoft Authenticator のインストール」 → **次へ**
+
+   「アプリでアカウントをセットアップする」 → **次へ**
+
+   「QR コードをスキャンします」 → QRコードをスマートフォンの Microsoft Authenticator でスキャン → **次へ**
+
+   画面に表示された2桁の番号をMicrosoft Authenticatorに入力し → **完了**
+
+4. ポータル画面が表示されたら、画面右上の歯車マーク **[Settings]** をクリックします。
+
+5. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
 
    <img src="./media/lab1-2.png" alt="lab1-2" style="zoom: 67%;" />
 
