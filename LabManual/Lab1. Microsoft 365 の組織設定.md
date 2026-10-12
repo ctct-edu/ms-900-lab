@@ -48,17 +48,15 @@
 
 3. **[サインインの状態を保持しますか]** ページでは、 **[いいえ]** をクリックします 。
 
-4. **画面が日本語表記の場合は、以下の手順をスキップして、タスク2に進んでください。英語表記の場合は、以下の手順を実施してください**
+4. ポータル画面が表示されたら、画面右上の歯車マーク **[Settings]** をクリックします。
 
-5. ポータル画面が表示されたら、画面右上の歯車マーク **[Settings]** をクリックします。
-
-6. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
+5. **[Setting]** の一覧から、 **[Language and time zone]** の **[Change your language]** をクリックします。
 
    <img src="./media/lab1-2.png" alt="lab1-2" style="zoom: 67%;" />
 
-7. **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
+6. **[My Account]** の **[Settings ＆ Privacy]** ページが表示されます。
 
-8. **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
+7. **[Language]** セクションの **[Display Language]** をクリックして、 **[Change display language]** をクリックします。
 
 <img src="./media/lab1-3.png" alt="lab1-3" style="zoom:80%;" />
 
